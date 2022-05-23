@@ -30,3 +30,4 @@ solana-program-test = "~1.9.5"
 
 [lib]
 crate-type = ["cdylib", "lib"]
+name = "mpl_metaplex"

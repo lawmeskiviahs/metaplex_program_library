@@ -27,3 +27,4 @@ mpl-testing-utils = {path="../../core/rust/testing-utils", version="0.0.2"}
 
 [lib]
 crate-type = ["cdylib", "lib"]
+name = "mpl_auction"
